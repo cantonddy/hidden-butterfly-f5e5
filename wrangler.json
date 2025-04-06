@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "hidden-butterfly-f5e5",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3abf535b-2510-46dd-af4b-97890c2d3c93",
+      "database_name": "icy-recipe-2c6f-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
